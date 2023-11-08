@@ -32,7 +32,7 @@ proglog==0.1.10
 prompt-toolkit==3.0.39
 psutil==5.9.6
 pure-eval==0.2.2
-PyAudio==0.2.13
+# PyAudio==0.2.13
 pydub==0.25.1
 pyee==11.0.1
 Pygments==2.16.1

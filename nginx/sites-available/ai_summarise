@@ -1,10 +1,10 @@
 server {
     listen 8000;
-    server_name pankajhacks.applikuapp.com;
+    server_name pankajcodehacks.applikuapp.com;
 
     location = /favicon.ico { access_log off; log_not_found off; }
     location /static/ {
-        root /home/app/ai_summarise;
+        root /home/app/pankajcodehacks/code/ai_summarise;
     }
 
     location / {
